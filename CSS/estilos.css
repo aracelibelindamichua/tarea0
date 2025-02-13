@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(235, 52, 174);
+}
+
+h1{
+    text-transform: uppercase;
+    color: rgb(40, 224, 49);
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: rgb(219, 205, 7);
+}
+img{
+    width: 200px;
+    height: 200PX;}
